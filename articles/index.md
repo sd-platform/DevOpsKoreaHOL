@@ -1,4 +1,4 @@
-# Azure DevOps HOL - 0604실습
+# Azure DevOps HOL - 0604실습11
 
 [DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행하는 Hands on Lab입니다.
 
